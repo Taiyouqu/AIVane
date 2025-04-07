@@ -1,0 +1,13 @@
+{
+    "_comment": "配置说明: 将YOUR_DOUBAN_API_KEY替换为你的豆包API密钥，其他参数按需修改",
+    "douban_api_key": "",
+    "douban_api_url": "https://ark.cn-beijing.volces.com/api/v3/chat/completions",
+    "douban_model_id": "doubao-1.5-vision-pro-32k-250115",
+    "screenshot_folder": "screenshots",
+    "debug_mode": false,
+    "auto_continue": false,
+    "wait_time_between_steps": 2,
+    "use_proxy": false,
+    "proxy_http": "http://127.0.0.1:7890",
+    "proxy_https": "http://127.0.0.1:7890"
+}
